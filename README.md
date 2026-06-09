@@ -1,0 +1,208 @@
+<div align="center">
+
+# Fu Kun 
+
+**Talk is cheap , show me the prompt**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Build+AI-powered+full-stack+systems;Connect+data%2C+models%2C+APIs+and+interfaces;GraphRAG+%7C+Knowledge+Graph+%7C+LLM+Applications;Go+Backend+%7C+FastAPI+%7C+React+%7C+HarmonyOS)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://github.com/223nobody">
+    <img src="https://komarev.com/ghpvc/?username=223nobody&style=flat-square&color=0e75b6" alt="profile views" />
+  </a>
+  <a href="https://github.com/223nobody?tab=followers">
+    <img src="https://img.shields.io/github/followers/223nobody?style=flat-square&color=27da6b&label=Followers" alt="followers" />
+  </a>
+  <a href="mailto:byfukun@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-byfukun%40foxmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="http://www.223nobody.xyz">
+    <img src="https://img.shields.io/badge/Demo-223nobody.xyz-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="demo" />
+  </a>
+</p>
+
+<p>
+  <a href="#about">About</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#featured-work">Featured Work</a> ·
+  <a href="#repositories">Repositories</a> ·
+  <a href="#github-stats">Stats</a> ·
+  <a href="#contact">Contact</a>
+</p>
+
+</div>
+
+---
+
+## About
+
+我正在围绕 **AI 应用工程、后端服务、全栈协作、知识图谱与数据智能** 积累系统化能力。相比只做一个 demo，我更关注从数据处理、模型/大模型接入、API 设计、前端交互到上线部署的完整闭环。
+
+- 武汉科技大学计算机科学与技术本科，GPA 3.33/4.0，专业前 20%。
+- 2026-2029 中国地质大学（武汉）电子信息硕士研究生。
+- 武汉金山办公软件有限公司服务端开发实习，实践 Go 工程化、REST API、并发计算与 AI 应用集成。
+- 项目兴趣集中在 GraphRAG、知识图谱、多模态 AI、时序预测、工程化后端与数据可视化。
+- 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯省三等奖、鸿蒙应用设计比赛优秀奖等。
+
+## What I Build
+
+| Direction | What I care about |
+| :-- | :-- |
+| AI Applications | 把 Qwen、GLM、DeepSeek、Kimi 等模型能力封装成稳定服务，关注 Prompt 设计、降级重试、缓存与成本控制。 |
+| Backend Engineering | 使用 Go/Gin、Python/FastAPI、Java/Spring Boot 构建清晰的 REST API、数据访问层和批处理能力。 |
+| Knowledge & Data | 用 Neo4j、GraphRAG、爬虫、清洗流程和数据看板，把领域数据组织成可检索、可解释、可交互的系统。 |
+| Frontend Experience | 使用 React、Vite、Zustand、ECharts、ArkUI 构建信息密度合适、交互清晰的工具型界面。 |
+
+## Tech Stack
+
+<div align="center">
+
+[![Core Skills](https://skillicons.dev/icons?i=python,go,java,js,ts,react,vite,spring,mysql,sqlite,git,github,vscode,linux&perline=7)](https://skillicons.dev)
+
+</div>
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Qwen%20%7C%20GLM%20%7C%20DeepSeek%20%7C%20Kimi-6A5ACD?style=flat-square)
+
+**Frontend & Data**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ArkUI](https://img.shields.io/badge/ArkUI-HarmonyOS-0A59F7?style=flat-square)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+## Featured Work
+
+### [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis)
+
+面向气象研究与防灾减灾场景的台风智能分析平台，整合 1966-2026 年历史台风数据、知识图谱、深度学习预测和多模态 AI 交互。
+
+| Area | Highlights |
+| :-- | :-- |
+| Architecture | React 18 + Vite 前端，FastAPI 后端，模块化 REST API 与前后端分离架构。 |
+| GraphRAG | 基于 Neo4j 构建台风领域知识图谱，支持意图识别、知识检索与增强 Prompt。 |
+| AI Services | 统一接入 DeepSeek、GLM、Qwen 等模型，设计自动降级、重试与服务工厂模式。 |
+| Forecasting | 使用 Transformer + LSTM 混合模型，完成 14 维特征工程与多步路径预测。 |
+| Data Pipeline | 定时爬虫、失败重试、数据清洗、历史数据库、预警管理与路径可视化。 |
+
+**Stack:** React 18, Vite, FastAPI, SQLAlchemy, SQLite, Neo4j, PyTorch, Transformer, LSTM, APScheduler, NumPy, Pandas  
+**Demo:** [www.223nobody.xyz](http://www.223nobody.xyz)
+
+### AI Question Bank Management System
+
+金山办公训练营实战项目，面向教育场景的 AI 题库管理系统，支持试题管理、批量导入导出、条件组卷、智能出题和数据统计。
+
+- 主导 React + Gin 前后端分离架构，设计并实现标准化 REST API。
+- 使用 Zustand 拆分试题 CRUD、批量操作、标签归类、难度调整和看板统计等模块。
+- 集成 Qwen、GLM、Kimi、DeepSeek 等模型接口，封装统一 AI 服务层。
+- 通过题型、难度、知识点等约束动态构造 Prompt，生成单选、多选和编程题。
+- 使用 SQLite + sqlx 事务处理保障批量导入导出的数据一致性。
+
+**Related repos:** [AIquestions](https://github.com/223nobody/AIquestions), [jinshan_code](https://github.com/223nobody/jinshan_code)
+
+### [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP)
+
+鸿蒙词汇学习应用，提供单词翻译、单词本、日常背诵和基于艾宾浩斯遗忘曲线的智能复习计划。
+
+- 使用 ArkUI 声明式开发范式完成鸿蒙端界面与交互。
+- 封装 Axios 请求层，统一处理鉴权、加载、错误与后端通信。
+- 使用 Spring Boot + MySQL 实现用户、单词本、学习记录等核心业务。
+
+## Repositories
+
+<details open>
+<summary>Selected public repositories</summary>
+
+| Project | Stars | Forks | Language | Remark |
+| :-- | :--: | :--: | :--: | :-- |
+| [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis?style=flat-square&color=ba86eb) | Python | 台风数据分析、知识图谱、AI 问答和路径预测平台。 |
+| [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理或微信侧探索。 |
+| [AIquestions](https://github.com/223nobody/AIquestions) | ![](https://img.shields.io/github/stars/223nobody/AIquestions?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/AIquestions?style=flat-square&color=ba86eb) | JavaScript | AI 题库管理系统相关前端/应用实践。 |
+| [jinshan_code](https://github.com/223nobody/jinshan_code) | ![](https://img.shields.io/github/stars/223nobody/jinshan_code?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/jinshan_code?style=flat-square&color=ba86eb) | Go | 金山办公训练营 Go 后端与工程化实践。 |
+| [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP) | ![](https://img.shields.io/github/stars/223nobody/HarmonyOsAPP?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/HarmonyOsAPP?style=flat-square&color=ba86eb) | Java | HarmonyOS 词汇学习应用。 |
+| [Zotero-Obsidian-note](https://github.com/223nobody/Zotero-Obsidian-note) | ![](https://img.shields.io/github/stars/223nobody/Zotero-Obsidian-note?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/Zotero-Obsidian-note?style=flat-square&color=ba86eb) | Python | Zotero + Obsidian 文献阅读与知识管理工作流。 |
+| [MedicalFood](https://github.com/223nobody/MedicalFood) | ![](https://img.shields.io/github/stars/223nobody/MedicalFood?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/MedicalFood?style=flat-square&color=ba86eb) | Vue | 医疗/食品方向的前端应用实践。 |
+| [DNSproject](https://github.com/223nobody/DNSproject) | ![](https://img.shields.io/github/stars/223nobody/DNSproject?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/DNSproject?style=flat-square&color=ba86eb) | Java | 计算机网络与 DNS 协议相关课程项目。 |
+
+</details>
+
+## Experience
+
+**Server-side Development Intern, Kingsoft Office**  
+*Mar 2026 - Jul 2026*
+
+- 参与多个渐进式全栈项目，系统提升 Go 语言工程化与前后端协作能力。
+- 牵头 AI 驱动试题管理系统，支撑 5000+ 试题的全生命周期管理。
+- 独立完成文件管理系统、用户行为分析系统和并发计算系统。
+- 使用 goroutine + channel 实现并行数据处理，相比单线程方案获得约 3x 性能提升。
+
+## Education
+
+| Time | School | Major |
+| :-- | :-- | :-- |
+| 2022.09 - 2026.06 | Wuhan University of Science and Technology | B.S. Computer Science and Technology |
+| 2026.09 - 2029.06 | China University of Geosciences (Wuhan) | M.Eng. Electronic Information |
+
+## GitHub Stats
+
+<details open>
+<summary>Click to expand</summary>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=223nobody&show_icons=true&theme=default&hide_border=true" alt="223nobody GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=223nobody&layout=compact&theme=default&hide_border=true" alt="223nobody top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=223nobody&theme=default&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=223nobody&theme=github" alt="profile summary" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=223nobody&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+
+</div>
+
+</details>
+
+## Currently Exploring
+
+- AI-native application architecture and reliable LLM service orchestration.
+- Knowledge graph enhanced retrieval and domain-specific GraphRAG systems.
+- Time-series forecasting for real-world spatiotemporal data.
+- Production-friendly backend services with clean APIs, observability and pragmatic performance optimization.
+- Personal knowledge management workflows with Zotero, Obsidian and automation scripts.
+
+## Contact
+
+<p>
+  <a href="https://github.com/223nobody">
+    <img src="https://img.shields.io/badge/GitHub-223nobody-181717?style=flat-square&logo=github" alt="github" />
+  </a>
+  <a href="mailto:byfukun@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-byfukun%40foxmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="http://www.223nobody.xyz">
+    <img src="https://img.shields.io/badge/Demo-www.223nobody.xyz-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="demo" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Thanks for visiting. I am always building, learning and turning ideas into usable systems.**
+
+</div>
