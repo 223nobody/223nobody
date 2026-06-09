@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Fu Kun
 
-# Talk is cheap, show me the prompt.
+# This is my personal homepage.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4200&pause=1200&color=2F80ED&center=true&vCenter=true&width=760&height=60&lines=Talk+is+cheap%2C+show+me+the+prompt.)](https://git.io/typing-svg)
 
