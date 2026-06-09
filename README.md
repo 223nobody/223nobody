@@ -1,10 +1,10 @@
 <div align="center">
 
-# Fu Kun 
+### Hi there, I'm Fu Kun
 
-**Talk is cheap , show me the prompt**
+# Talk is cheap, show me the prompt.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Build+AI-powered+full-stack+systems;Connect+data%2C+models%2C+APIs+and+interfaces;GraphRAG+%7C+Knowledge+Graph+%7C+LLM+Applications;Go+Backend+%7C+FastAPI+%7C+React+%7C+HarmonyOS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=AI+Application+Engineer+in+training;Full-stack+%26+Backend+Developer;GraphRAG+%7C+Knowledge+Graph+%7C+LLM+Applications;Go+Backend+%7C+FastAPI+%7C+React+%7C+HarmonyOS)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/223nobody">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://github.com/223nobody?tab=followers">
     <img src="https://img.shields.io/github/followers/223nobody?style=flat-square&color=27da6b&label=Followers" alt="followers" />
+  </a>
+  <a href="https://github.com/223nobody?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-223nobody-181717?style=flat-square&logo=github" alt="github" />
   </a>
   <a href="mailto:byfukun@foxmail.com">
     <img src="https://img.shields.io/badge/Email-byfukun%40foxmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="email" />
@@ -23,10 +26,10 @@
 
 <p>
   <a href="#about">About</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#toolbox">Toolbox</a> ·
   <a href="#featured-work">Featured Work</a> ·
   <a href="#repositories">Repositories</a> ·
-  <a href="#github-stats">Stats</a> ·
+  <a href="#stats">Stats</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -44,22 +47,20 @@
 - 项目兴趣集中在 GraphRAG、知识图谱、多模态 AI、时序预测、工程化后端与数据可视化。
 - 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯省三等奖、鸿蒙应用设计比赛优秀奖等。
 
-## What I Build
-
-| Direction | What I care about |
-| :-- | :-- |
-| AI Applications | 把 Qwen、GLM、DeepSeek、Kimi 等模型能力封装成稳定服务，关注 Prompt 设计、降级重试、缓存与成本控制。 |
-| Backend Engineering | 使用 Go/Gin、Python/FastAPI、Java/Spring Boot 构建清晰的 REST API、数据访问层和批处理能力。 |
-| Knowledge & Data | 用 Neo4j、GraphRAG、爬虫、清洗流程和数据看板，把领域数据组织成可检索、可解释、可交互的系统。 |
-| Frontend Experience | 使用 React、Vite、Zustand、ECharts、ArkUI 构建信息密度合适、交互清晰的工具型界面。 |
-
-## Tech Stack
+## Toolbox
 
 <div align="center">
 
 [![Core Skills](https://skillicons.dev/icons?i=python,go,java,js,ts,react,vite,spring,mysql,sqlite,git,github,vscode,linux&perline=7)](https://skillicons.dev)
 
 </div>
+
+| Direction | Tools & Practices |
+| :-- | :-- |
+| AI Applications | Qwen, GLM, DeepSeek, Kimi, Prompt engineering, unified model service, fallback and retry. |
+| Backend | Go/Gin, Python/FastAPI, Java/Spring Boot, REST API, sqlx, SQLAlchemy, batch processing. |
+| Data Intelligence | Neo4j, GraphRAG, crawler pipelines, data cleaning, time-series forecasting, ECharts dashboards. |
+| Frontend | React, Vite, Zustand, TypeScript, HarmonyOS ArkUI, responsive tool interfaces. |
 
 **Backend & AI**
 
@@ -124,7 +125,7 @@
 | Project | Stars | Forks | Language | Remark |
 | :-- | :--: | :--: | :--: | :-- |
 | [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis?style=flat-square&color=ba86eb) | Python | 台风数据分析、知识图谱、AI 问答和路径预测平台。 |
-| [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理或微信侧探索。 |
+| [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理与微信侧探索。 |
 | [AIquestions](https://github.com/223nobody/AIquestions) | ![](https://img.shields.io/github/stars/223nobody/AIquestions?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/AIquestions?style=flat-square&color=ba86eb) | JavaScript | AI 题库管理系统相关前端/应用实践。 |
 | [jinshan_code](https://github.com/223nobody/jinshan_code) | ![](https://img.shields.io/github/stars/223nobody/jinshan_code?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/jinshan_code?style=flat-square&color=ba86eb) | Go | 金山办公训练营 Go 后端与工程化实践。 |
 | [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP) | ![](https://img.shields.io/github/stars/223nobody/HarmonyOsAPP?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/HarmonyOsAPP?style=flat-square&color=ba86eb) | Java | HarmonyOS 词汇学习应用。 |
@@ -140,7 +141,7 @@
 *Mar 2026 - Jul 2026*
 
 - 参与多个渐进式全栈项目，系统提升 Go 语言工程化与前后端协作能力。
-- 牵头 AI 驱动试题管理系统，支撑 5000+ 试题的全生命周期管理。
+- 牵头 AI 驱动试题管理系统，支撑 1000+ 试题的全生命周期管理。
 - 独立完成文件管理系统、用户行为分析系统和并发计算系统。
 - 使用 goroutine + channel 实现并行数据处理，相比单线程方案获得约 3x 性能提升。
 
@@ -151,10 +152,10 @@
 | 2022.09 - 2026.06 | Wuhan University of Science and Technology | B.S. Computer Science and Technology |
 | 2026.09 - 2029.06 | China University of Geosciences (Wuhan) | M.Eng. Electronic Information |
 
-## GitHub Stats
+## Stats
 
 <details open>
-<summary>Click to expand</summary>
+<summary>GitHub activity and generated cards</summary>
 
 <div align="center">
 
@@ -177,6 +178,25 @@
 
 </details>
 
+<details open>
+<summary>Contribution graphics</summary>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="GitHub breakout contribution graph" src="images/breakout-light.svg" />
+</picture>
+
+<br />
+
+[![GitHub 3D contributions](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/223nobody/223nobody/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+</details>
+
 ## Currently Exploring
 
 - AI-native application architecture and reliable LLM service orchestration.
@@ -184,6 +204,16 @@
 - Time-series forecasting for real-world spatiotemporal data.
 - Production-friendly backend services with clean APIs, observability and pragmatic performance optimization.
 - Personal knowledge management workflows with Zotero, Obsidian and automation scripts.
+
+## Badges
+
+<details>
+<summary>Auto-generated badges</summary>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+</details>
 
 ## Contact
 
