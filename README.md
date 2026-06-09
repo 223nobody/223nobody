@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hi there, I'm Fu Kun
+### 👋 Hi there, I'm Fu Kun
 
 # Talk is cheap, show me the prompt.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=AI+Application+Engineer+in+training;Full-stack+%26+Backend+Developer;GraphRAG+%7C+Knowledge+Graph+%7C+LLM+Applications;Go+Backend+%7C+FastAPI+%7C+React+%7C+HarmonyOS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4200&pause=1200&color=2F80ED&center=true&vCenter=true&width=760&height=60&lines=Talk+is+cheap%2C+show+me+the+prompt.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/223nobody">
@@ -25,29 +25,40 @@
 </p>
 
 <p>
-  <a href="#about">About</a> ·
-  <a href="#toolbox">Toolbox</a> ·
-  <a href="#featured-work">Featured Work</a> ·
-  <a href="#repositories">Repositories</a> ·
-  <a href="#stats">Stats</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#-about">🧭 About</a> ·
+  <a href="#-toolbox">🧰 Toolbox</a> ·
+  <a href="#-featured-work">🚀 Featured Work</a> ·
+  <a href="#-repositories">🏊 Repositories</a> ·
+  <a href="#-stats">💻 Stats</a> ·
+  <a href="#-contact">📮 Contact</a>
 </p>
 
 </div>
 
 ---
 
-## About
+## 🤗 Welcome
+
+> 这里是我的 GitHub 主页，也是我持续整理工程实践、AI 应用和学习轨迹的地方。希望每个项目都不只是“能跑”，而是能把真实问题拆清楚、把数据和模型接稳、把交互做顺。
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20Applications-6A5ACD?style=flat-square" alt="focus ai applications" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00ADD8?style=flat-square" alt="focus backend engineering" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Intelligence-2EA44F?style=flat-square" alt="focus data intelligence" />
+  <img src="https://img.shields.io/badge/Style-Build%20and%20Iterate-F97316?style=flat-square" alt="build and iterate" />
+</p>
+
+## 🧭 About
 
 我正在围绕 **AI 应用工程、后端服务、全栈协作、知识图谱与数据智能** 积累系统化能力。相比只做一个 demo，我更关注从数据处理、模型/大模型接入、API 设计、前端交互到上线部署的完整闭环。
 
-- 武汉科技大学计算机科学与技术本科，GPA 3.33/4.0，专业前 20%。
-- 2026-2029 中国地质大学（武汉）电子信息硕士研究生。
-- 武汉金山办公软件有限公司服务端开发实习，实践 Go 工程化、REST API、并发计算与 AI 应用集成。
-- 项目兴趣集中在 GraphRAG、知识图谱、多模态 AI、时序预测、工程化后端与数据可视化。
-- 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯省三等奖、鸿蒙应用设计比赛优秀奖等。
+- 🎓 武汉科技大学计算机科学与技术本科，GPA 3.33/4.0，专业前 20%。
+- 🚀 2026-2029 中国地质大学（武汉）电子信息硕士研究生。
+- 💼 武汉金山办公软件有限公司服务端开发实习，实践 Go 工程化、REST API、并发计算与 AI 应用集成。
+- 🧠 项目兴趣集中在 GraphRAG、知识图谱、多模态 AI、时序预测、工程化后端与数据可视化。
+- 🏆 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯省三等奖、鸿蒙应用设计比赛优秀奖等。
 
-## Toolbox
+## 🧰 Toolbox
 
 <div align="center">
 
@@ -55,14 +66,14 @@
 
 </div>
 
-| Direction | Tools & Practices |
+| 🔭 Direction | 🛠️ Tools & Practices |
 | :-- | :-- |
-| AI Applications | Qwen, GLM, DeepSeek, Kimi, Prompt engineering, unified model service, fallback and retry. |
-| Backend | Go/Gin, Python/FastAPI, Java/Spring Boot, REST API, sqlx, SQLAlchemy, batch processing. |
-| Data Intelligence | Neo4j, GraphRAG, crawler pipelines, data cleaning, time-series forecasting, ECharts dashboards. |
-| Frontend | React, Vite, Zustand, TypeScript, HarmonyOS ArkUI, responsive tool interfaces. |
+| 🤖 AI Applications | Qwen, GLM, DeepSeek, Kimi, Prompt engineering, unified model service, fallback and retry. |
+| 🧱 Backend | Go/Gin, Python/FastAPI, Java/Spring Boot, REST API, sqlx, SQLAlchemy, batch processing. |
+| 🕸️ Data Intelligence | Neo4j, GraphRAG, crawler pipelines, data cleaning, time-series forecasting, ECharts dashboards. |
+| 🎨 Frontend | React, Vite, Zustand, TypeScript, HarmonyOS ArkUI, responsive tool interfaces. |
 
-**Backend & AI**
+**🧠 Backend & AI**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -70,7 +81,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Qwen%20%7C%20GLM%20%7C%20DeepSeek%20%7C%20Kimi-6A5ACD?style=flat-square)
 
-**Frontend & Data**
+**🎛️ Frontend & Data**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -80,49 +91,49 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-## Featured Work
+## 🚀 Featured Work
 
-### [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis)
+### 🌪️ [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis)
 
 面向气象研究与防灾减灾场景的台风智能分析平台，整合 1966-2026 年历史台风数据、知识图谱、深度学习预测和多模态 AI 交互。
 
-| Area | Highlights |
+| 🧩 Area | ✨ Highlights |
 | :-- | :-- |
-| Architecture | React 18 + Vite 前端，FastAPI 后端，模块化 REST API 与前后端分离架构。 |
-| GraphRAG | 基于 Neo4j 构建台风领域知识图谱，支持意图识别、知识检索与增强 Prompt。 |
-| AI Services | 统一接入 DeepSeek、GLM、Qwen 等模型，设计自动降级、重试与服务工厂模式。 |
-| Forecasting | 使用 Transformer + LSTM 混合模型，完成 14 维特征工程与多步路径预测。 |
-| Data Pipeline | 定时爬虫、失败重试、数据清洗、历史数据库、预警管理与路径可视化。 |
+| 🏗️ Architecture | React 18 + Vite 前端，FastAPI 后端，模块化 REST API 与前后端分离架构。 |
+| 🕸️ GraphRAG | 基于 Neo4j 构建台风领域知识图谱，支持意图识别、知识检索与增强 Prompt。 |
+| 🤖 AI Services | 统一接入 DeepSeek、GLM、Qwen 等模型，设计自动降级、重试与服务工厂模式。 |
+| 📈 Forecasting | 使用 Transformer + LSTM 混合模型，完成 14 维特征工程与多步路径预测。 |
+| 🛰️ Data Pipeline | 定时爬虫、失败重试、数据清洗、历史数据库、预警管理与路径可视化。 |
 
-**Stack:** React 18, Vite, FastAPI, SQLAlchemy, SQLite, Neo4j, PyTorch, Transformer, LSTM, APScheduler, NumPy, Pandas  
-**Demo:** [www.223nobody.xyz](http://www.223nobody.xyz)
+**🧪 Stack:** React 18, Vite, FastAPI, SQLAlchemy, SQLite, Neo4j, PyTorch, Transformer, LSTM, APScheduler, NumPy, Pandas<br />
+**🔗 Demo:** [www.223nobody.xyz](http://www.223nobody.xyz)
 
-### AI Question Bank Management System
+### 🧪 AI Question Bank Management System
 
 金山办公训练营实战项目，面向教育场景的 AI 题库管理系统，支持试题管理、批量导入导出、条件组卷、智能出题和数据统计。
 
-- 主导 React + Gin 前后端分离架构，设计并实现标准化 REST API。
-- 使用 Zustand 拆分试题 CRUD、批量操作、标签归类、难度调整和看板统计等模块。
-- 集成 Qwen、GLM、Kimi、DeepSeek 等模型接口，封装统一 AI 服务层。
-- 通过题型、难度、知识点等约束动态构造 Prompt，生成单选、多选和编程题。
-- 使用 SQLite + sqlx 事务处理保障批量导入导出的数据一致性。
+- 🧱 主导 React + Gin 前后端分离架构，设计并实现标准化 REST API。
+- 🎛️ 使用 Zustand 拆分试题 CRUD、批量操作、标签归类、难度调整和看板统计等模块。
+- 🤖 集成 Qwen、GLM、Kimi、DeepSeek 等模型接口，封装统一 AI 服务层。
+- ✍️ 通过题型、难度、知识点等约束动态构造 Prompt，生成单选、多选和编程题。
+- 🗃️ 使用 SQLite + sqlx 事务处理保障批量导入导出的数据一致性。
 
-**Related repos:** [AIquestions](https://github.com/223nobody/AIquestions), [jinshan_code](https://github.com/223nobody/jinshan_code)
+**📦 Related repos:** [AIquestions](https://github.com/223nobody/AIquestions), [jinshan_code](https://github.com/223nobody/jinshan_code)
 
-### [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP)
+### 📱 [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP)
 
 鸿蒙词汇学习应用，提供单词翻译、单词本、日常背诵和基于艾宾浩斯遗忘曲线的智能复习计划。
 
-- 使用 ArkUI 声明式开发范式完成鸿蒙端界面与交互。
-- 封装 Axios 请求层，统一处理鉴权、加载、错误与后端通信。
-- 使用 Spring Boot + MySQL 实现用户、单词本、学习记录等核心业务。
+- 🎨 使用 ArkUI 声明式开发范式完成鸿蒙端界面与交互。
+- 🔐 封装 Axios 请求层，统一处理鉴权、加载、错误与后端通信。
+- 🗃️ 使用 Spring Boot + MySQL 实现用户、单词本、学习记录等核心业务。
 
-## Repositories
+## 🏊 Repositories
 
 <details open>
-<summary>Selected public repositories</summary>
+<summary>点击展开 selected public repositories ...</summary>
 
-| Project | Stars | Forks | Language | Remark |
+| 🚩 Project | ⭐ Stars | 🍴 Forks | 🧬 Language | 📝 Remark |
 | :-- | :--: | :--: | :--: | :-- |
 | [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis?style=flat-square&color=ba86eb) | Python | 台风数据分析、知识图谱、AI 问答和路径预测平台。 |
 | [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理与微信侧探索。 |
@@ -135,27 +146,27 @@
 
 </details>
 
-## Experience
+## 💼 Experience
 
 **Server-side Development Intern, Kingsoft Office**  
 *Mar 2026 - Jul 2026*
 
-- 参与多个渐进式全栈项目，系统提升 Go 语言工程化与前后端协作能力。
-- 牵头 AI 驱动试题管理系统，支撑 1000+ 试题的全生命周期管理。
-- 独立完成文件管理系统、用户行为分析系统和并发计算系统。
-- 使用 goroutine + channel 实现并行数据处理，相比单线程方案获得约 3x 性能提升。
+- 🧩 参与多个渐进式全栈项目，系统提升 Go 语言工程化与前后端协作能力。
+- 🧠 牵头 AI 驱动试题管理系统，支撑 1000+ 试题的全生命周期管理。
+- 🛠️ 独立完成文件管理系统、用户行为分析系统和并发计算系统。
+- ⚡ 使用 goroutine + channel 实现并行数据处理，相比单线程方案获得约 3x 性能提升。
 
-## Education
+## 🎓 Education
 
-| Time | School | Major |
+| ⏱️ Time | 🏫 School | 📚 Major |
 | :-- | :-- | :-- |
 | 2022.09 - 2026.06 | Wuhan University of Science and Technology | B.S. Computer Science and Technology |
 | 2026.09 - 2029.06 | China University of Geosciences (Wuhan) | M.Eng. Electronic Information |
 
-## Stats
+## 💻 Stats
 
 <details open>
-<summary>GitHub activity and generated cards</summary>
+<summary>点击展开 GitHub activity and generated cards ...</summary>
 
 <div align="center">
 
@@ -179,7 +190,7 @@
 </details>
 
 <details open>
-<summary>Contribution graphics</summary>
+<summary>点击展开 contribution graphics ...</summary>
 
 <div align="center">
 
@@ -197,25 +208,25 @@
 
 </details>
 
-## Currently Exploring
+## 🧭 Currently Exploring
 
-- AI-native application architecture and reliable LLM service orchestration.
-- Knowledge graph enhanced retrieval and domain-specific GraphRAG systems.
-- Time-series forecasting for real-world spatiotemporal data.
-- Production-friendly backend services with clean APIs, observability and pragmatic performance optimization.
-- Personal knowledge management workflows with Zotero, Obsidian and automation scripts.
+- 🤖 AI-native application architecture and reliable LLM service orchestration.
+- 🕸️ Knowledge graph enhanced retrieval and domain-specific GraphRAG systems.
+- 📈 Time-series forecasting for real-world spatiotemporal data.
+- 🧱 Production-friendly backend services with clean APIs, observability and pragmatic performance optimization.
+- 📝 Personal knowledge management workflows with Zotero, Obsidian and automation scripts.
 
-## Badges
+## 🥇 Badges
 
 <details>
-<summary>Auto-generated badges</summary>
+<summary>点击展开 auto-generated badges ...</summary>
 
 <!-- my-badges start -->
 <!-- my-badges end -->
 
 </details>
 
-## Contact
+## 📮 Contact
 
 <p>
   <a href="https://github.com/223nobody">
@@ -233,6 +244,6 @@
 
 <div align="center">
 
-**Thanks for visiting. I am always building, learning and turning ideas into usable systems.**
+**✨ Thanks for visiting. I am always building, learning and turning ideas into usable systems. 🚀**
 
 </div>
