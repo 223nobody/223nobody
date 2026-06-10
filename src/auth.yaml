@@ -1,6 +1,0 @@
-registry.cn-hangzhou.aliyuncs.com/eryajf:
-  username: eryajf
-  password: ${ALIHUB_TOKEN}
-docker.io:
-  username: eryajf
-  password: ${DOCKERHUB_TOKEN}
