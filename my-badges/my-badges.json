@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/223nobody/daily-paper-reader/commit/ad98de5cc1ce36091d6e6caea3f612d3e4b6e64b\"><strong>a</strong>d98de5cc1ce36091d6e6caea3f612d3e4b6e64b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/223nobody/daily-paper-reader/commit/ad98de5cc1ce36091d6e6caea3f612d3e4b6e64b\">ad98de5</a>: chore: init secret.private via web setup",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"profile\".",
+    "body": "My favorite commit message words are:\n\n1. profile (used 4 times)\n2. readme (used 3 times)\n3. polish (used 2 times)\n4. style (used 2 times)\n5. first (used 2 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/223nobody/223nobody/commit/a2a0d0a7e84ceaf2fed67a3d9a7aa16deeaff747\">a2a0d0a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 3 my own repositories.",
+    "body": "- <a href=\"https://github.com/223nobody/TyphoonAnalysis\">223nobody/TyphoonAnalysis</a>\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note\">223nobody/Zotero-Obsidian-note</a>\n- <a href=\"https://github.com/223nobody/paper-search-mcp\">223nobody/paper-search-mcp</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  }
+]
