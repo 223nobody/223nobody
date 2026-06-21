@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. profile (used 4 times)
-2. readme (used 3 times)
-3. polish (used 2 times)
-4. style (used 2 times)
-5. first (used 2 times)
+2. first (used 3 times)
+3. readme (used 3 times)
+4. polish (used 2 times)
+5. style (used 2 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

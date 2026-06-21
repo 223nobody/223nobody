@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"profile\".",
-    "body": "My favorite commit message words are:\n\n1. profile (used 4 times)\n2. readme (used 3 times)\n3. polish (used 2 times)\n4. style (used 2 times)\n5. first (used 2 times)",
+    "body": "My favorite commit message words are:\n\n1. profile (used 4 times)\n2. first (used 3 times)\n3. readme (used 3 times)\n4. polish (used 2 times)\n5. style (used 2 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -40,5 +40,12 @@
     "desc": "I've starred 3 my own repositories.",
     "body": "- <a href=\"https://github.com/223nobody/TyphoonAnalysis\">223nobody/TyphoonAnalysis</a>\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note\">223nobody/Zotero-Obsidian-note</a>\n- <a href=\"https://github.com/223nobody/paper-search-mcp\">223nobody/paper-search-mcp</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/dc3db93346a371d72ab2065460e5350bd320c9ff\">dc3db93</a>: fix:新增说明文档\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/0cda5bf3447bdde65e34e10014632da45c992ba6\">0cda5bf</a>: fix:优化弹窗逻辑和UI效果\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/c1f9e0ff6f037cae4ba7a51c01c9b94be0373084\">c1f9e0f</a>: fix:优化整体爬取逻辑\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/adfc9ae5432bea58299c0e9e54bf007730742cb0\">adfc9ae</a>: fix:调整为mcp first\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/9ab2ea8b094ef8646027f82a021012be9055ebb9\">9ab2ea8</a>: fix:进一步优化minerU解析\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/88b74980ca1f3ca324fdc545f614d6815bd24d93\">88b7498</a>: fix:初步升级",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
   }
 ]
