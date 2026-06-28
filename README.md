@@ -52,11 +52,11 @@
 
 我正在围绕 **AI 应用工程、后端服务、全栈协作、知识图谱与数据智能** 积累系统化能力。相比只做一个 demo，我更关注从数据处理、模型/大模型接入、API 设计、前端交互到上线部署的完整闭环。
 
-- 🎓 武汉科技大学计算机科学与技术本科，GPA 3.33/4.0，专业前 20%。
+- 🎓 武汉科技大学计算机科学与技术本科，GPA 3.33/4.0，专业前 10%。
 - 🚀 2026-2029 中国地质大学（武汉）电子信息硕士研究生。
 - 💼 武汉金山办公软件有限公司服务端开发实习，实践 Go 工程化、REST API、并发计算与 AI 应用集成。
 - 🧠 项目兴趣集中在 GraphRAG、知识图谱、多模态 AI、时序预测、工程化后端与数据可视化。
-- 🏆 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯省三等奖、鸿蒙应用设计比赛优秀奖等。
+- 🏆 获全国大学生数学竞赛国赛二等奖、全国大学生数学建模竞赛湖北赛区一等奖、MathorCup 华中赛区二等奖、蓝桥杯三等奖、鸿蒙应用设计比赛优秀奖等。
 
 ## 🧰 Toolbox
 
@@ -66,12 +66,12 @@
 
 </div>
 
-| 🔭 Direction | 🛠️ Tools & Practices |
-| :-- | :-- |
-| 🤖 AI Applications | Qwen, GLM, DeepSeek, Kimi, Prompt engineering, unified model service, fallback and retry. |
-| 🧱 Backend | Go/Gin, Python/FastAPI, Java/Spring Boot, REST API, sqlx, SQLAlchemy, batch processing. |
+| 🔭 Direction         | 🛠️ Tools & Practices                                                                            |
+| :------------------- | :---------------------------------------------------------------------------------------------- |
+| 🤖 AI Applications   | Qwen, GLM, DeepSeek, Kimi, Prompt engineering, unified model service, fallback and retry.       |
+| 🧱 Backend           | Go/Gin, Python/FastAPI, Java/Spring Boot, REST API, sqlx, SQLAlchemy, batch processing.         |
 | 🕸️ Data Intelligence | Neo4j, GraphRAG, crawler pipelines, data cleaning, time-series forecasting, ECharts dashboards. |
-| 🎨 Frontend | React, Vite, Zustand, TypeScript, HarmonyOS ArkUI, responsive tool interfaces. |
+| 🎨 Frontend          | React, Vite, Zustand, TypeScript, HarmonyOS ArkUI, responsive tool interfaces.                  |
 
 **🧠 Backend & AI**
 
@@ -93,22 +93,36 @@
 
 ## 🚀 Featured Work
 
+### 🔬 [paper-search-mcp](https://github.com/223nobody/paper-search-mcp)
+
+面向 AI Agent 的一站式学术论文 MCP 服务，支持多源检索、PDF 下载、MinerU 解析与出版商发行版获取。已发布为 Claude Code / Codex 可用的 MCP Server。
+
+| 🧩 Area                | ✨ Highlights                                                                                      |
+| :--------------------- | :------------------------------------------------------------------------------------------------- |
+| 🔍 Multi-Source Search | 支持 arXiv、PubMed、Semantic Scholar、Crossref 等 21 个学术数据源，统一结果格式与跨源去重。        |
+| 📥 Smart Download      | 开放获取优先的 PDF 下载策略，来源原生 → Unpaywall → OA 仓储多级回退，Sci-Hub 可选且默认关闭。      |
+| 🧠 MinerU Parsing      | 集成 MinerU extract API，将 PDF 解析为 Markdown、结构化 JSON、图片/表格/公式等可复用资源。         |
+| 🔌 MCP-First Design    | 50+ MCP 工具，自然语言驱动全流程；支持 MCP Apps checkbox 选择器、Elicitation 多选与编号 fallback。 |
+| 🏢 Publisher PDF       | 通过 scansci-pdf MCP Chaining 自动获取 Nature、Elsevier、Springer 等出版商最终发行版 PDF。         |
+
+**🧪 Stack:** Python, MCP (Model Context Protocol), MinerU, scansci-pdf, SQLite FTS, arXiv API, Semantic Scholar API, Crossref API, Playwright
+
 ### 🌪️ [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis)
 
 面向气象研究与防灾减灾场景的台风智能分析平台，整合 1966-2026 年历史台风数据、知识图谱、深度学习预测和多模态 AI 交互。
 
-| 🧩 Area | ✨ Highlights |
-| :-- | :-- |
-| 🏗️ Architecture | React 18 + Vite 前端，FastAPI 后端，模块化 REST API 与前后端分离架构。 |
-| 🕸️ GraphRAG | 基于 Neo4j 构建台风领域知识图谱，支持意图识别、知识检索与增强 Prompt。 |
-| 🤖 AI Services | 统一接入 DeepSeek、GLM、Qwen 等模型，设计自动降级、重试与服务工厂模式。 |
-| 📈 Forecasting | 使用 Transformer + LSTM 混合模型，完成 14 维特征工程与多步路径预测。 |
-| 🛰️ Data Pipeline | 定时爬虫、失败重试、数据清洗、历史数据库、预警管理与路径可视化。 |
+| 🧩 Area          | ✨ Highlights                                                           |
+| :--------------- | :---------------------------------------------------------------------- |
+| 🏗️ Architecture  | React 18 + Vite 前端，FastAPI 后端，模块化 REST API 与前后端分离架构。  |
+| 🕸️ GraphRAG      | 基于 Neo4j 构建台风领域知识图谱，支持意图识别、知识检索与增强 Prompt。  |
+| 🤖 AI Services   | 统一接入 DeepSeek、GLM、Qwen 等模型，设计自动降级、重试与服务工厂模式。 |
+| 📈 Forecasting   | 使用 Transformer + LSTM 混合模型，完成 14 维特征工程与多步路径预测。    |
+| 🛰️ Data Pipeline | 定时爬虫、失败重试、数据清洗、历史数据库、预警管理与路径可视化。        |
 
 **🧪 Stack:** React 18, Vite, FastAPI, SQLAlchemy, SQLite, Neo4j, PyTorch, Transformer, LSTM, APScheduler, NumPy, Pandas<br />
 **🔗 Demo:** [www.223nobody.xyz](http://www.223nobody.xyz)
 
-### 🧪 AI Question Bank Management System
+### 🧪 [AI Question Bank Management System](https://github.com/223nobody/AIquestions)
 
 金山办公训练营实战项目，面向教育场景的 AI 题库管理系统，支持试题管理、批量导入导出、条件组卷、智能出题和数据统计。
 
@@ -117,8 +131,6 @@
 - 🤖 集成 Qwen、GLM、Kimi、DeepSeek 等模型接口，封装统一 AI 服务层。
 - ✍️ 通过题型、难度、知识点等约束动态构造 Prompt，生成单选、多选和编程题。
 - 🗃️ 使用 SQLite + sqlx 事务处理保障批量导入导出的数据一致性。
-
-**📦 Related repos:** [AIquestions](https://github.com/223nobody/AIquestions), [jinshan_code](https://github.com/223nobody/jinshan_code)
 
 ### 📱 [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP)
 
@@ -133,23 +145,24 @@
 <details open>
 <summary>点击展开 selected public repositories ...</summary>
 
-| 🚩 Project | ⭐ Stars | 🍴 Forks | 🧬 Language | 📝 Remark |
-| :-- | :--: | :--: | :--: | :-- |
-| [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis?style=flat-square&color=ba86eb) | Python | 台风数据分析、知识图谱、AI 问答和路径预测平台。 |
-| [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理与微信侧探索。 |
-| [AIquestions](https://github.com/223nobody/AIquestions) | ![](https://img.shields.io/github/stars/223nobody/AIquestions?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/AIquestions?style=flat-square&color=ba86eb) | JavaScript | AI 题库管理系统相关前端/应用实践。 |
-| [jinshan_code](https://github.com/223nobody/jinshan_code) | ![](https://img.shields.io/github/stars/223nobody/jinshan_code?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/jinshan_code?style=flat-square&color=ba86eb) | Go | 金山办公训练营 Go 后端与工程化实践。 |
-| [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP) | ![](https://img.shields.io/github/stars/223nobody/HarmonyOsAPP?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/HarmonyOsAPP?style=flat-square&color=ba86eb) | Java | HarmonyOS 词汇学习应用。 |
-| [Zotero-Obsidian-note](https://github.com/223nobody/Zotero-Obsidian-note) | ![](https://img.shields.io/github/stars/223nobody/Zotero-Obsidian-note?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/Zotero-Obsidian-note?style=flat-square&color=ba86eb) | Python | Zotero + Obsidian 文献阅读与知识管理工作流。 |
-| [MedicalFood](https://github.com/223nobody/MedicalFood) | ![](https://img.shields.io/github/stars/223nobody/MedicalFood?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/MedicalFood?style=flat-square&color=ba86eb) | Vue | 医疗/食品方向的前端应用实践。 |
-| [DNSproject](https://github.com/223nobody/DNSproject) | ![](https://img.shields.io/github/stars/223nobody/DNSproject?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/DNSproject?style=flat-square&color=ba86eb) | Java | 计算机网络与 DNS 协议相关课程项目。 |
+| 🚩 Project                                                                    |                                                 ⭐ Stars                                                 |                                                 🍴 Forks                                                 |   🧬 Language    | 📝 Remark                                       |
+| :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------: | :---------------------------------------------- |
+| [paper-search-mcp](https://github.com/223nobody/paper-search-mcp)             |    ![](https://img.shields.io/github/stars/223nobody/paper-search-mcp?style=flat-square&color=f2f08d)    |    ![](https://img.shields.io/github/forks/223nobody/paper-search-mcp?style=flat-square&color=ba86eb)    |      Python      | 多源学术论文检索/下载/解析 MCP 服务。           |
+| [TyphoonAnalysis](https://github.com/223nobody/TyphoonAnalysis)               |    ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis?style=flat-square&color=f2f08d)     |    ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis?style=flat-square&color=ba86eb)     |      Python      | 台风数据分析、知识图谱、AI 问答和路径预测平台。 |
+| [TyphoonAnalysis_weixin](https://github.com/223nobody/TyphoonAnalysis_weixin) | ![](https://img.shields.io/github/stars/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=f2f08d) | ![](https://img.shields.io/github/forks/223nobody/TyphoonAnalysis_weixin?style=flat-square&color=ba86eb) | Jupyter Notebook | 台风分析相关实验、数据处理与微信侧探索。        |
+| [AIquestions](https://github.com/223nobody/AIquestions)                       |      ![](https://img.shields.io/github/stars/223nobody/AIquestions?style=flat-square&color=f2f08d)       |      ![](https://img.shields.io/github/forks/223nobody/AIquestions?style=flat-square&color=ba86eb)       |    JavaScript    | AI 题库管理系统相关前端/应用实践。              |
+| [jinshan_code](https://github.com/223nobody/jinshan_code)                     |      ![](https://img.shields.io/github/stars/223nobody/jinshan_code?style=flat-square&color=f2f08d)      |      ![](https://img.shields.io/github/forks/223nobody/jinshan_code?style=flat-square&color=ba86eb)      |        Go        | 金山办公训练营 Go 后端与工程化实践。            |
+| [HarmonyOsAPP](https://github.com/223nobody/HarmonyOsAPP)                     |      ![](https://img.shields.io/github/stars/223nobody/HarmonyOsAPP?style=flat-square&color=f2f08d)      |      ![](https://img.shields.io/github/forks/223nobody/HarmonyOsAPP?style=flat-square&color=ba86eb)      |       Java       | HarmonyOS 词汇学习应用。                        |
+| [Zotero-Obsidian-note](https://github.com/223nobody/Zotero-Obsidian-note)     |  ![](https://img.shields.io/github/stars/223nobody/Zotero-Obsidian-note?style=flat-square&color=f2f08d)  |  ![](https://img.shields.io/github/forks/223nobody/Zotero-Obsidian-note?style=flat-square&color=ba86eb)  |      Python      | Zotero + Obsidian 文献阅读与知识管理工作流。    |
+| [MedicalFood](https://github.com/223nobody/MedicalFood)                       |      ![](https://img.shields.io/github/stars/223nobody/MedicalFood?style=flat-square&color=f2f08d)       |      ![](https://img.shields.io/github/forks/223nobody/MedicalFood?style=flat-square&color=ba86eb)       |       Vue        | 医疗/食品方向的前端应用实践。                   |
+| [DNSproject](https://github.com/223nobody/DNSproject)                         |       ![](https://img.shields.io/github/stars/223nobody/DNSproject?style=flat-square&color=f2f08d)       |       ![](https://img.shields.io/github/forks/223nobody/DNSproject?style=flat-square&color=ba86eb)       |       Java       | 计算机网络与 DNS 协议相关课程项目。             |
 
 </details>
 
 ## 💼 Experience
 
 **Server-side Development Intern, Kingsoft Office**  
-*Mar 2026 - Jul 2026*
+_Mar 2026 - Jul 2026_
 
 - 🧩 参与多个渐进式全栈项目，系统提升 Go 语言工程化与前后端协作能力。
 - 🧠 牵头 AI 驱动试题管理系统，支撑 1000+ 试题的全生命周期管理。
@@ -158,10 +171,10 @@
 
 ## 🎓 Education
 
-| ⏱️ Time | 🏫 School | 📚 Major |
-| :-- | :-- | :-- |
+| ⏱️ Time           | 🏫 School                                  | 📚 Major                             |
+| :---------------- | :----------------------------------------- | :----------------------------------- |
 | 2022.09 - 2026.06 | Wuhan University of Science and Technology | B.S. Computer Science and Technology |
-| 2026.09 - 2029.06 | China University of Geosciences (Wuhan) | M.Eng. Electronic Information |
+| 2026.09 - 2029.06 | China University of Geosciences (Wuhan)    | M.Eng. Electronic Information        |
 
 ## 💻 Stats
 
@@ -222,6 +235,7 @@
 <summary>点击展开 auto-generated badges ...</summary>
 
 <!-- my-badges start -->
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;profile&quot;." title="My favorite word is &quot;profile&quot;." width="64"></a>
@@ -229,6 +243,7 @@
 <a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 3 my own repositories." title="I&apos;ve starred 3 my own repositories." width="64"></a>
 <a href="my-badges/fix-6.md"><img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="64"></a>
+
 <!-- my-badges end -->
 
 </details>
