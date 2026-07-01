@@ -1,14 +1,14 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;profile&quot;." title="My favorite word is &quot;profile&quot;." width="128">
-<strong>My favorite word is &quot;profile&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
+<strong>My favorite word is &quot;add&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. profile (used 4 times)
-2. first (used 3 times)
-3. readme (used 3 times)
-4. polish (used 2 times)
-5. style (used 2 times)
+1. add (used 7 times)
+2. fix (used 7 times)
+3. chinese (used 6 times)
+4. paper (used 6 times)
+5. agent-skill (used 5 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
