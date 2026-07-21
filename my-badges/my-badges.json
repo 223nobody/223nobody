@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 7 times)\n2. fix (used 7 times)\n3. chinese (used 6 times)\n4. paper (used 6 times)\n5. agent-skill (used 5 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 17 times)\n2. docker (used 17 times)\n3. build (used 16 times)\n4. fix (used 10 times)\n5. use (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "I did 7 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/becc7c95f2523ac294727b049d45aaefcfaed2d4\">becc7c9</a>: fix:优化批量处理的去重机制\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/6d1d35367b003d83204510640eaaddb21fc0bf64\">6d1d353</a>: fix:新增scansci-pdf MCP 调用\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/f6ad47330bd73ceb3d163ffda6e30e3e2a84d2e3\">f6ad473</a>: fix:更新.gitignore\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/55d6dcaa69c0f8454208b2b521fa0b37847e6c7d\">55d6dca</a>: fix:补充图解\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/e4e7a24c070e326a5a4c3b4a1e555c8ee3dd8a1e\">e4e7a24</a>: fix:优化场景适配\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/f8504922c9b52d9d91ac05d4f30b87c8c4d1d55c\">f850492</a>: fix: idle timeout 调整为 3 分钟\n- <a href=\"https://github.com/223nobody/paper-search-mcp/commit/0a2bb5f9cda9a613689651dd909d759002ff0e3a\">0a2bb5f</a>: fix:优化前端一致性",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note/commit/2cbc16e4f3509d27ec6e6c906f09ce1f42d636ed\">2cbc16e</a>: fix:优化skill介绍文案\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note/commit/293ea15be6b8f4ab87142990cfca66fec0ca4525\">293ea15</a>: fix:优化skill介绍文案\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note/commit/cad36eb839de9e8fddc395ce5541cf95c99bcf7f\">cad36eb</a>: fix:优化skill介绍文案\n- <a href=\"https://github.com/223nobody/Zotero-Obsidian-note/commit/0fd4392fda29573066167c8132e1bf61a7b42b82\">0fd4392</a>: fix: improve innovation_scoped regex in domain consistency validator\n\n- Replace hardcoded Chinese numbering pattern with general heading keyword matching\n- Match innovation/method/design/system headings regardless of numbering format\n- Fixes false negatives where valid Chinese headings were not detected",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]

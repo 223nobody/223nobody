@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. add (used 7 times)
-2. fix (used 7 times)
-3. chinese (used 6 times)
-4. paper (used 6 times)
-5. agent-skill (used 5 times)
+1. add (used 17 times)
+2. docker (used 17 times)
+3. build (used 16 times)
+4. fix (used 10 times)
+5. use (used 8 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
